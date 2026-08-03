@@ -13,7 +13,7 @@ WhatsApp marketing for automotive refers to using WhatsApp as a communication an
 
 
 
-**What is WhatsApp Marketing for Automotive?**
+### **What is WhatsApp Marketing for Automotive?**
 
 **Why WhatsApp is Ideal for Automotive Businesses**\
 The automotive buying journey is often long and involves multiple touchpoints. WhatsApp simplifies this process by offering instant communication. Instead of waiting for callbacks or emails, customers can directly inquire about car models, prices, availability, and financing options.

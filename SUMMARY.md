@@ -20,3 +20,8 @@
 * [Advanced WhatsApp Analytics: Turning Conversations into Business Insights](guide-content/advanced-whatsapp-analytics-turning-conversations-into-business-insights.md)
 * [WhatsApp Marketing for Automotive: Drive More Leads ](guide-content/whatsapp-marketing-for-automotive-drive-more-leads.md)
 * [WhatsApp for E-commerce: A Smarter Way to Connect and Sell](guide-content/whatsapp-for-e-commerce-a-smarter-way-to-connect-and-sell.md)
+* [WhatsApp for Education: Smarter Communication for Schools and Online Learning](guide-content/whatsapp-for-education-smarter-communication-for-schools-and-online-learning.md)
+* [WhatsApp for Events Marketing: Turning Chats Into Full Houses](guide-content/whatsapp-for-events-marketing-turning-chats-into-full-houses.md)
+* [WhatsApp for Healthcare: How Clinics & Hospitals Are Reimagining Patient Engagement](guide-content/whatsapp-for-healthcare-how-clinics-and-hospitals-are-reimagining-patient-engagement.md)
+* [How NGOs Are Using WhatsApp to Reach More People, Faster](guide-content/how-ngos-are-using-whatsapp-to-reach-more-people-faster.md)
+* [Why More Consultants and Firms Are Turning to WhatsApp for Professional Services](guide-content/why-more-consultants-and-firms-are-turning-to-whatsapp-for-professional-services.md)
